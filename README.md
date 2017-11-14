@@ -1,5 +1,7 @@
 # express-vue-template
 
+IMPORTANT: This project is a work in progress, so code may be sloppy and/or broken at any point in time. Feel free to use it at your own discretion.
+
 A simple template that contains an Express server and a Vue client app, based on Cody Seibert's awesome Vue tutorial here: https://www.youtube.com/watch?v=Fa4cRMaTDUI
 Tutorial on Github: https://github.com/codyseibert/tab-tracker
 
