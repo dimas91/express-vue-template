@@ -13,6 +13,8 @@ You need to have Node Js installed: https://nodejs.org/en/
 
 You must at least have **NODE version 8.2.1**
 
+Don't forget to correctly set your API endpoint in /client/src/services/Api.js!
+
 ### Client - Terminal A
 ```
 cd client
